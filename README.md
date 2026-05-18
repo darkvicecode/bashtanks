@@ -25,7 +25,7 @@ single bash script with no dependencies , tested working inside a screen session
  - Animated missile explosions
  - Cloud drift and move each turn
  - Random animated lightning strikes (no damage to tanks and terrain)
-
+ - Post game Statistics (number of shots, accuracy, game time duration)
 
 
   
