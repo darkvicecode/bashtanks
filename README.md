@@ -7,8 +7,18 @@ single bash script with no dependencies , tested working inside a screen session
 - No installation
 
   # How to Run:
- # chmod +x bashtanks.sh
- # ./bashtanks.sh
+  linux:
+  
+ `chmod +x bashtanks.sh`
+ 
+ `./bashtanks.sh`
+
+android: (install termux and bash)
+
+`chmod +x bashtanks.sh`
+
+`bash bashtanks.sh`
+
 
 
  Game Modes:
@@ -30,3 +40,4 @@ single bash script with no dependencies , tested working inside a screen session
 
   
   
+*test machine: Thinkpad x220 - Slackware Linux Current
