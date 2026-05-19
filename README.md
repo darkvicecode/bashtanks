@@ -1,6 +1,10 @@
 Bash Tanks CLI is an turn based ASCII artillery game for linux terminal or frambuffer tty, 
 single bash script with no dependencies , tested working inside a screen session 
 
+
+<img width="1023" height="471" alt="bashtanks1" src="https://github.com/user-attachments/assets/6c908a94-9e32-44fd-b03c-ea9239b9c363" />
+
+
 - No X11 required
 - runs on framebuffer tty (1024x768)
 - runs inside a gnu screen session
