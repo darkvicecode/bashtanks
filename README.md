@@ -25,6 +25,9 @@ android: (install termux and bash)
 
 
 
+<img width="1349" height="673" alt="bashtanks2" src="https://github.com/user-attachments/assets/1af731e5-a62d-4395-875d-8728edffffe3" />
+
+
  Game Modes:
  - Player vs AI (easy , normal , hard)
  - Player vs Player mode
@@ -42,6 +45,8 @@ android: (install termux and bash)
  - Random animated lightning strikes (no damage to tanks and terrain)
  - Post game Statistics (number of shots, accuracy, game time duration)
 
+
+  <img width="720" height="1610" alt="Screenshot_20260519_073112_com_termux_TermuxActivity" src="https://github.com/user-attachments/assets/81305eb5-62cb-4cfe-bb89-80a035392345" />
 
   
   
