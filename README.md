@@ -51,3 +51,5 @@ android: (install termux and bash)
   
   
 *test machine: Thinkpad x220 - Slackware Linux Current
+
+Honor x7c - Android 14
