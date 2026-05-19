@@ -31,6 +31,7 @@ android: (install termux and bash)
  - Tanks can set Power of missile
 
  Game Display Features:
+ - Random generated unique terrain and trees, new terrain features each game
  - Missiles can damage Terrain and Trees
  - Animated missile explosions
  - Cloud drift and move each turn
